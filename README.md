@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shadan Ijmal Siddqiue and I'm a passionate Full Stack  Web Developer</h2>
+<br>
+
 
 ###
 
@@ -38,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -53,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arthur071/Arthur071/output/snake.svg" alt="Snake animation" />
+
 
 ###
