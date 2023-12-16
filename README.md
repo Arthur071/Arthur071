@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">My name is Shadan and I'm a Full Stack Web Developer from India...</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">My name is Shadan and I'm a Full Stack Web Developer from India...</h2>
 
 ###
 
@@ -16,7 +12,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Get Selected for GSSOC'2024<br>🎲 Fun fact: When life gives you lemon make its Aisha Takia...</p>
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Get Selected for GSSOC'2024<br>🎲 Fun fact: When life gives you lemon make its Aisha Takia...</h4>
 
 ###
 
@@ -49,6 +49,10 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
 </div>
+
+###
+
+<h2 align="left">Connect with me</h2>
 
 ###
 
