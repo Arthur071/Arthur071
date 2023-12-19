@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://www.gifcen.com/wp-content/uploads/2022/09/anime-gif-11.gif"  />
 
 ###
 
@@ -71,8 +71,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Arthur071&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur071&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arthur071&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
