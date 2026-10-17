@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Get Selected for GSSOC'2024<br>🎲 Fun fact: When life gives you lemon make its Aisha Takia...</h4>
+<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Gen AI....<br>🎯 Goals: Get Placed in MANGO....<br>🎲 Fun fact: When life gives you lemon make its Aisha Takia...</h4>
 
 ###
 
